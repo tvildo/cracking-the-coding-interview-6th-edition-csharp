@@ -1,0 +1,1 @@
+This is implementation sample of rabin karp algorithm
